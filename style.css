@@ -41,5 +41,8 @@ ul li a{
 .center button {
     padding: 10px 20px;
     font-size: 1rem;
-    border: none
+    border: none;
+    cursor: pointer;
+    background: #ffa31a;
+    color: white;
 }
